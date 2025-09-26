@@ -1,4 +1,4 @@
-# --- DMD Prognosis Demo (Young intake + Genotype presets) ---
+## --- DMD Prognosis Demo (Young intake + Genotype presets) ---
 # Illustrative only; not a medical device.
 
 import math
@@ -6,9 +6,8 @@ from typing import Optional, Tuple, Dict
 
 import numpy as np
 import plotly.graph_objects as go
-import streamlit as ststreamlit==1.39.0
-plotly
-numpy
+import streamlit as st
+
 
 # ---------------------------
 # Page config
