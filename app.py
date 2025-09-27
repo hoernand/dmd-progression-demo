@@ -12,8 +12,8 @@ import streamlit as st
 # ---------------------------
 # Page config
 # ---------------------------
-st.set_page_config(page_title="DMD – Prognosis Demo (synthetic)", page_icon="🧭", layout="wide")
-st.markdown("### DMD – Prognosis Demo (synthetic)")
+st.set_page_config(page_title="DMD – Progression Demo (synthetic)", page_icon="🧭", layout="wide")
+st.markdown("### DMD – Progression Demo (synthetic)")
 st.caption("Illustrative; not for clinical decision-making.")
 
 # ---------------------------
